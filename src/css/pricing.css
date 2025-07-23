@@ -1,0 +1,70 @@
+.pricing {
+}
+.section {
+  background: #f8fbfe;
+}
+.container {
+}
+.pricing-subtitle {
+  font: 600 16px / 1.5 'Sarabun', sans-serif;
+  text-align: center;
+  color: #0d0b0a;
+}
+.pricing-title {
+  font: 400 40px / 1.2 'Cabin', sans-serif;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #0d0b0a;
+}
+.pricing-text {
+  font: 400 16px / 1.6 'Sarabun', sans-serif;
+  text-align: center;
+  color: #0d0b0a;
+}
+.pricing-list {
+}
+.pricing-list-item {
+}
+.pricing-list-box {
+  margin: 0 auto;
+  border: 0px solid rgba(13, 11, 10, 0.15);
+  border-radius: 16px;
+  padding: 32px 24px;
+  width: 343px;
+  height: 378px;
+  background: #dfebeb;
+}
+.pricing-list-box-title {
+  font: 400 18px / 1.4 'Cabin', sans-serif;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #0d0b0a;
+}
+.pricing-list-box-price {
+  font: 400 44px / 1.2 'Cabin', sans-serif;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #0d0b0a;
+}
+.pricing-list-box-sublist {
+}
+.pricing-list-box-sublist-item {
+}
+.pricing-list-box-sublist-icon {
+}
+.pricing-list-box-sublist-text {
+  font: 400 16px / 1.6 'Sarabun', sans-serif;
+  color: #0d0b0a;
+}
+.pricing-list-box-sublist-button {
+  display: block;
+  margin: 0 auto;
+  font: 500 16px / 1.6 'Sarabun', sans-serif;
+  color: #0d0b0a;
+  border: 1px solid #c2d9fc;
+  border-radius: 100px;
+  padding: 10px 24px;
+  width: 295px;
+  height: 46px;
+  background: #c2d9fc;
+}
